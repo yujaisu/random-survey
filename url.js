@@ -6,7 +6,6 @@
  * 2. 包起來的網址之間用逗號分隔
  */
 
-
 const urls = [
 	'https://forms.gle/WvBZbpMLSo1AtMsw8',
 ];
