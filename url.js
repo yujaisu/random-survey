@@ -12,11 +12,9 @@ const urls = [
 	'https://forms.gle/n9eK1AAWLdc74vre8',
 	'https://forms.gle/qinBG5hPsK583zEp9',
 	'https://forms.gle/KqxxUEMvwDidqbaMA',
-	'https://forms.gle/pXgQPNvYfeXCf2sw8',
 	'https://forms.gle/PZnJA4wXutgujukU9',
 	'https://forms.gle/p2fmq1G9cmZCcKps9',
 	'https://forms.gle/HytzXMzYEVBcAVuz5',
 	'https://forms.gle/i8qKSue2pr9MhSgi9',
-	'https://forms.gle/eackqGNrGg6VBGFM9',
-	'https://forms.gle/KMhWZh7tn9ZJ5xSp7',	
+	'https://forms.gle/eackqGNrGg6VBGFM9',	
 ];
