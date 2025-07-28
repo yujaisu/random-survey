@@ -7,11 +7,13 @@
  */
 
 const urls = [
+	'https://forms.gle/ufMtYpzVnkmx9dBE7',
 	'https://forms.gle/TtxAM38sv7TuRDiR8',
-	'https://forms.gle/n9eK1AAWLdc74vre8',
-	'https://forms.gle/qinBG5hPsK583zEp9',
-	'https://forms.gle/PZnJA4wXutgujukU9',
-	'https://forms.gle/p2fmq1G9cmZCcKps9',
-	'https://forms.gle/HytzXMzYEVBcAVuz5',
-	'https://forms.gle/eackqGNrGg6VBGFM9',	
+	'https://forms.gle/KaYfkdrjXS3zLUUU9',
+	'https://forms.gle/MSSmzTpW8SKQP1W86',
+	'https://forms.gle/8sNmFYrCrEZU4CnE9',
+	'https://forms.gle/pu8jSah5tQ2FbJkd9',
+	'https://forms.gle/AzQ1LxfWkhB8GWDo6',
+	'hhttps://forms.gle/gMJo2aANh6gjnGtq8'
+
 ];
